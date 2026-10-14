@@ -20,3 +20,7 @@ A re-analysis of the 1840s Vienna General Hospital data that led Ignaz Semmelwei
 pip install -r requirements.txt
 jupyter notebook notebook.ipynb
 ```
+
+## License
+
+The code is released under the [MIT License](LICENSE). Datasets keep the terms of their original sources, described above.
